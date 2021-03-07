@@ -1,0 +1,159 @@
+/* Clear */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* /Clear */
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&family=Roboto&display=swap');
+
+/* 
+1. Roboto 
+2. Montserrat
+3. Poppins
+*/
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.extra-bold {
+    font-weight: 900;
+}
+
+.semi-bold {
+    font-weight: 500;
+}
+
+.regular {
+    font-weight: 300;
+}
+
+.extra-large {
+    font-size: 5em;
+}
+
+.large {
+    font-size: 3em;
+}
+
+.medium {
+    font-size: 2em;
+}
+
+.small {
+    font-size: 1em;
+}
+
+/* /Fonts */
+
+/* Flex */
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-sb {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* /Flex */
+
+/* Width, height and padding */
+.width100 {
+    width: 100%;
+}
+
+.height100 {
+    height: 100%;
+}
+
+.padding-s {
+    padding: 1em;
+}
+
+.padding-m {
+    padding: 2em;
+}
+
+.padding-l {
+    padding: 3em;
+}
+/* /Width, height and padding */
+
+/* Clears */
+.a-clear {
+    text-decoration: none;
+    color: #000;
+}
+
+.ul-clear {
+    list-style: none;
+}
+/* /Clears */
+
+/* Nav */
+.float-l {
+    float: left;
+}
+
+.float-r {
+    float: right;
+}
+/* /Nav */
+
+/* Margin */
+.margin-left-s {
+    margin-left: 0.5em;
+}
+
+.margin-left-m {
+    margin-left: 1em;
+}
+
+.margin-left-l {
+    margin-left: 1.5em;
+}
+
+.margin-right-s {
+    margin-right: 0.5em;
+}
+
+.margin-right-m {
+    margin-right: 1em;
+}
+
+.margin-right-l {
+    margin-right: 1.5em;
+}
+
+.margin-top-s {
+    margin-top: 0.5em;
+}
+
+.margin-top-m {
+    margin-top: 1em;
+}
+
+.margin-top-l {
+    margin-top: 1.5em;
+}
+
+/* /Margin */
